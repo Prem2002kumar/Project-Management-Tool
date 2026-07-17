@@ -38,8 +38,7 @@ Ensure your development environment meets the following requirements before proc
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Tushar-Sahu7/Project-Management-Tool.git
-cd Project-Management-Tool
+git clone https://github.com/Prem2002kumar/Project-Management-Tool
 ```
 
 ### 2. Install Backend Dependencies
